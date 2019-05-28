@@ -35,6 +35,7 @@
                 </DrawingBrush>
             </Grid.Background>
         </Grid>
+        <TextBlock FontSize="56">dgsdfgfsdg</TextBlock>
         <Grid>
             <Grid.Background>
                 <DrawingBrush
