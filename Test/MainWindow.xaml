@@ -10,7 +10,7 @@
         <Grid>
             <Grid.Background>
                 <DrawingBrush
-                    TileMode="Tile"
+                     TileMode="Tile"
                     Viewport="0,0,20,20"
                     ViewportUnits="Absolute">
                     <DrawingBrush.Drawing>
@@ -35,7 +35,7 @@
                 </DrawingBrush>
             </Grid.Background>
         </Grid>
-        <TextBlock FontSize="56">dgsdfgfsdg </TextBlock>
+        <TextBlock FontSize="60">dgsdfgfsdg </TextBlock>
         <Grid>
             <Grid.Background>
                 <DrawingBrush
