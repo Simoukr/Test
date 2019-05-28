@@ -23,6 +23,7 @@ namespace Test
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("分支");
         }
     }
 }
